@@ -154,17 +154,17 @@ Example: Removing sample rows from Room.
 
 # 🧠 Key Takeaways
 
-### ✔ From Assignment #2 — Database Creation  
+### ✔ Database Creation  
 - Built complete relational schema using MySQL Workbench  
 - Defined proper PK/FK relationships  
 - Populated sample data visually  
 
-### ✔ From Assignment #3 — Normalization  
+### ✔ Normalization  
 - Verified schema met 1NF, 2NF, 3NF  
 - Demonstrated clean functional dependencies  
 - Ensured no redundancy or anomalies  
 
-### ✔ From Assignment #4 — SQL Practice  
+### ✔ SQL Practice  
 - Used INSERT, UPDATE, ALTER, DELETE  
 - Performed summary statistics  
 - Strengthened SQL proficiency using real tables  
