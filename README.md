@@ -33,7 +33,7 @@ Entities include:
 ### ✔ ERD (Conceptual Model)
 
 <div align="center">
-  <img src="images/hotel_erd_original.png" width="650"/>
+  <img src="images/hotel_erd_original.jpg" width="650"/>
   <p><em>Original ERD showing 8 entities and their relationships.</em></p>
 </div>
 
